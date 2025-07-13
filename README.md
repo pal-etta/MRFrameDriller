@@ -19,13 +19,13 @@ Download the latest release from the [Releases page](https://github.com/pal-etta
 
 ##  Features
 
-  1. Use the file browser or enter a file path to select a DICOM (.dcm) file."
-  "2. Preview the image in the display area."
-  "3. Scroll with the mouse wheel or arrow keys to navigate slices (if multi-frame)."
-  "4. Press the '+' button to add the image to the processing list."
-  "5. Click 'OK' to split them into individual slices."
-  "6. Slices will be saved in the selected folder."
-  "Note: Only Enhanced MR DICOM files are supported."
+  1. Use the file browser or enter a file path to select a DICOM (.dcm) file.
+  2. Preview the image in the display area.
+  3. Scroll with the mouse wheel or arrow keys to navigate slices (if multi-frame).
+  4. Press the '+' button to add the image to the processing list.
+  5. Click 'OK' to split them into individual slices.
+  6. Slices will be saved in the selected folder.
+  Note: Only Enhanced MR DICOM files are supported.
 
 
 This executable is not signed. Always verify downloads from the [official Releases page](https://github.com/pal-etta/MRFrameDriller/releases).
