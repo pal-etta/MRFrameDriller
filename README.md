@@ -2,7 +2,7 @@
 This is a free, non-profit DICOM splitting tool to split Enhanced MR DICOMs into individual frame slices.
 
 
-## 📦 Download
+## Download
 
 Download the latest release from the [Releases page](https://github.com/pal-etta/MRFrameDriller/releases).
 
